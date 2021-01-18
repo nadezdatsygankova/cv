@@ -147,6 +147,7 @@ hr {
     display: inline-block;
     cursor: pointer;
     text-align: center;
+    padding: 20px;
 }
 
 .button:hover {
